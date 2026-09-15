@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-09-15T14:53:17.500151Z",
+  "sinceDays": 180,
+  "topN": 6,
+  "ordersScanned": 3,
+  "ordersWithMultipleProducts": 2,
+  "affinities": {
+    "30fba83b-da26-4e17-9746-16d0eefd1702": [
+      {
+        "id": "a60aea09-8ae3-4dc6-b89c-d00f8bf1dc1d",
+        "name": "GANT LACIVERT YAKA DETAYLI POLO YAKA TSHIRT",
+        "slug": "gant-lacivert-yaka-detayli-polo-yaka-tshirt",
+        "imageUrl": "https://cdn.myikas.com/images/a049ad7e-527c-4a88-b2fc-370e67fd48ae/95f27339-7f65-427e-b83e-b495f65c9442/image_360.webp",
+        "sellPrice": 2242.5,
+        "discountPrice": 1121.26,
+        "coOccurrenceCount": 1
+      },
+      {
+        "id": "e1413f13-4122-452d-aef1-19b0277e1587",
+        "name": "LACOSTE POLO YAKA TSHIRT",
+        "slug": "lacste-polo-yaka-tshirt",
+        "imageUrl": "https://cdn.myikas.com/images/a049ad7e-527c-4a88-b2fc-370e67fd48ae/aebacbcd-d46d-49e8-a7f2-a875245b1d6c/image_360.webp",
+        "sellPrice": 2242.5,
+        "discountPrice": 1121.26,
+        "coOccurrenceCount": 1
+      }
+    ],
+    "a60aea09-8ae3-4dc6-b89c-d00f8bf1dc1d": [
+      {
+        "id": "30fba83b-da26-4e17-9746-16d0eefd1702",
+        "name": "GANT BEYAZ YAKA DETAYLI POLO YAKA TSHIRT",
+        "slug": "gant-beyaz-yaka-detayli-polo-yaka-tshirt",
+        "imageUrl": "https://cdn.myikas.com/images/a049ad7e-527c-4a88-b2fc-370e67fd48ae/25c1bd0e-605a-41ae-a062-1b11dd9b1618/image_360.webp",
+        "sellPrice": 2242.5,
+        "discountPrice": 1121.26,
+        "coOccurrenceCount": 1
+      },
+      {
+        "id": "e1413f13-4122-452d-aef1-19b0277e1587",
+        "name": "LACOSTE POLO YAKA TSHIRT",
+        "slug": "lacste-polo-yaka-tshirt",
+        "imageUrl": "https://cdn.myikas.com/images/a049ad7e-527c-4a88-b2fc-370e67fd48ae/aebacbcd-d46d-49e8-a7f2-a875245b1d6c/image_360.webp",
+        "sellPrice": 2242.5,
+        "discountPrice": 1121.26,
+        "coOccurrenceCount": 1
+      }
+    ],
+    "e1413f13-4122-452d-aef1-19b0277e1587": [
+      {
+        "id": "30fba83b-da26-4e17-9746-16d0eefd1702",
+        "name": "GANT BEYAZ YAKA DETAYLI POLO YAKA TSHIRT",
+        "slug": "gant-beyaz-yaka-detayli-polo-yaka-tshirt",
+        "imageUrl": "https://cdn.myikas.com/images/a049ad7e-527c-4a88-b2fc-370e67fd48ae/25c1bd0e-605a-41ae-a062-1b11dd9b1618/image_360.webp",
+        "sellPrice": 2242.5,
+        "discountPrice": 1121.26,
+        "coOccurrenceCount": 1
+      },
+      {
+        "id": "a60aea09-8ae3-4dc6-b89c-d00f8bf1dc1d",
+        "name": "GANT LACIVERT YAKA DETAYLI POLO YAKA TSHIRT",
+        "slug": "gant-lacivert-yaka-detayli-polo-yaka-tshirt",
+        "imageUrl": "https://cdn.myikas.com/images/a049ad7e-527c-4a88-b2fc-370e67fd48ae/95f27339-7f65-427e-b83e-b495f65c9442/image_360.webp",
+        "sellPrice": 2242.5,
+        "discountPrice": 1121.26,
+        "coOccurrenceCount": 1
+      }
+    ]
+  }
+}
